@@ -1,0 +1,35 @@
+﻿  Belman-Ford.cpp
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(169,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(171,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\BFList.cpp(156,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\BFList.cpp(153): message : во время компиляции функции-члена класс шаблон "int BFList<std::string>::isInList(dataType)"
+          with
+          [
+              dataType=std::string
+          ]
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "int BFList<std::string>::isInList(dataType)"
+          with
+          [
+              dataType=std::string
+          ]
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BFList<std::string>"
+  BFList.cpp
+  Main.cpp
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(167,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(169,22): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(171,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\BFList.cpp(156,21): warning C4018: <: несоответствие типов со знаком и без знака
+D:\My projects\VS repos\Bellman-Ford\BFList.cpp(153): message : во время компиляции функции-члена класс шаблон "int BFList<std::string>::isInList(dataType)"
+          with
+          [
+              dataType=std::string
+          ]
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(64): message : выполняется компиляция ссылки на экземпляр шаблон функции "int BFList<std::string>::isInList(dataType)"
+          with
+          [
+              dataType=std::string
+          ]
+D:\My projects\VS repos\Bellman-Ford\Belman-Ford.cpp(12): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "BFList<std::string>"
+  Создание кода...
+  Bellman-Ford.vcxproj -> D:\My projects\VS repos\Bellman-Ford\Debug\Bellman-Ford.lib
